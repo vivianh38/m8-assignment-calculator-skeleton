@@ -1,12 +1,12 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 26
+    compileSdkVersion 22
 
     defaultConfig {
         applicationId "mooc.vandy.java4android.calculator"
         minSdkVersion 22
-        targetSdkVersion 26
+        targetSdkVersion 22
         versionCode 1
         versionName "1.0"
         multiDexEnabled true
